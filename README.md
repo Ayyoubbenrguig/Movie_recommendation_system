@@ -11,7 +11,7 @@ The MovieLens Dataset is used as a bench mark dataset in journals, conference pa
 <p align="center">
 <div class="center">
   <figure>
-    <a href="/images/matrix.png"><img src="images/matrix.png" width="600" ></a>
+    <a href="matrix.png"><img src="matrix.png" width="600" ></a>
   </figure>
 </div>
 </p>
