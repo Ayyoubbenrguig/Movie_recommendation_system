@@ -67,7 +67,7 @@ The number of factors showed the best performance at 19.
 <p align="center">
 <div class="center">
   <figure>
-    <a href="/images/optimize_graph.png"><img src="images/optimize_graph.png" width="600" ></a>
+    <a href="optimize_graph.png"><img src="optimize_graph.png" width="600" ></a>
   </figure>
 </div>
 </p>
@@ -78,7 +78,7 @@ epoch =30, batch=32, learning rater = 0.001, best factor =19. (RMSELoss per epoc
 <p align="center">
 <div class="center">
   <figure>
-    <a href="/images/loss_curve.png"><img src="images/loss_curve.png" width="600" ></a>
+    <a href="loss_curve.png"><img src="loss_curve.png" width="600" ></a>
   </figure>
 </div>
 </p>
